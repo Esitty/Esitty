@@ -21,6 +21,6 @@ Interested in data analysis, machine learning, and business intelligence.
 
 ## 📫 Connect with me
 
-* LinkedIn: https://www.linkedin.com
+* LinkedIn: https://www.linkedin.com/in/hettymens
 * GitHub: https://github.com/Esitty
 
