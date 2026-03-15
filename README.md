@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**Esitty/Esitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Data Analytics student 
+Interested in data analysis, machine learning, and business intelligence.
 
-Here are some ideas to get you started:
+## 🔧 Tools & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* SQL
+* Excel
+* Data Visualization
+* Machine Learning
+* Time Series Forecasting
+
+## 📊 Projects
+
+* Fuel Sales Performance Dashboard (Excel)
+* Customer Churn Predictive Analytics (Python)
+* Time Series Forecasting (Python)
+* Algorithm Design Implementation
+
+## 📫 Connect with me
+
+* LinkedIn: https://www.linkedin.com
+* GitHub: https://github.com/Esitty
+
