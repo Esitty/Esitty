@@ -1,6 +1,6 @@
 # Hi, I'm Henrietta
 
-**Senior Operations & Business Intelligence · Data Analyst · Berlin, Germany**
+**Operations & Business Intelligence · Data Analyst · Berlin, Germany**
 
 leading operations and BI teams in the oil and gas industry · MSc Data Analytics (in progress) · Expertise spanning supply chain, fuel distribution, demand forecasting, and operational performance
 
