@@ -38,10 +38,10 @@ As a team lead in oil and gas BI, I worked with the kind of data most analysts o
 
 ---
 
-### [Fuel Sales & Logistics Performance Dashboard](https://github.com/Esitty/fuel_sales_logistics_dashboard) · `Live on Tableau Public`
+### [Fuel Sales Performance, Logistics & Operations & Stock Buffer Analysis Dashboard](https://github.com/Esitty/fuel_sales_logistics_dashboard) · `Live on Tableau Public`
 `Excel` `Tableau` `Pivot Tables` `Sales Analysis` `Logistics` `Stock Variance` `Fuel Distribution` `KPI Design`
 
-Dual dashboard analyzing fuel sales revenue, logistics operations, and stock variance across 5 regions and 15 stations — built in both Excel and Tableau. Includes industry-specific stock variance analysis (overall 1.19% variance rate) with breakdown by fuel type reflecting real operational loss patterns: Petrol 1.63%, Diesel 0.94%, LPG 0.49%. The Tableau version adds a combo chart and interactive web publishing not possible in Excel.
+Dual dashboard analyzing fuel sales revenue, logistics operations, and stock variance across 5 regions and 15 stations, built in both Excel and Tableau. Includes industry-specific stock variance analysis (overall 1.19% variance rate) with breakdown by fuel type reflecting real operational loss patterns: Petrol 1.63%, Diesel 0.94%, LPG 0.49%. The Tableau version adds a combo chart and interactive web publishing not possible in Excel.
 
 [View live on Tableau Public](https://public.tableau.com/app/profile/henrietta.mensah/viz/fuel_sales_logistics_dashboard_rev/FuelSalesdashboard)
 
@@ -102,7 +102,4 @@ I'm based in Berlin and open to data analyst, business intelligence, and operati
 ---
 
 *Open to data analyst, business intelligence, and operational analytics roles. Based in Berlin, Germany.*
-
-* LinkedIn: https://www.linkedin.com/in/hettymens
-* GitHub: https://github.com/Esitty
 
