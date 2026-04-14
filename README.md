@@ -2,7 +2,7 @@
 
 **Senior Operations & Business Intelligence · Data Analyst · Berlin, Germany**
 
-7 years leading operations and BI teams in the oil and gas industry · MSc Data Analytics (in progress) · Expertise spanning supply chain, fuel distribution, demand forecasting, and operational performance
+leading operations and BI teams in the oil and gas industry · MSc Data Analytics (in progress) · Expertise spanning supply chain, fuel distribution, demand forecasting, and operational performance
 
 I'm not a career-changer learning analytics from scratch. I'm an experienced operations and business intelligence professional who has spent 7 years making data-driven decisions in one of the world's most complex industries, and I'm now adding formal analytical and technical depth to match that operational credibility.
 
