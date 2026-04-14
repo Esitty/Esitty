@@ -87,9 +87,9 @@ Before formalising my analytics skills, I spent 7 years in the oil and gas indus
 
 That experience taught me things no course can fully replicate: how messy real operational data actually is, what questions decision-makers are actually trying to answer, and what it means for an analysis to be genuinely useful rather than just technically correct.
 
-My MSc in Data Analytics is giving me the formal technical foundation, Python, machine learning, statistical modelling — to work at the full depth of modern data analytics. I'm building a portfolio that reflects both the domain expertise from 7 years in industry and the technical rigour from formal training.
+My MSc in Data Analytics is giving me the formal technical foundation, Python, machine learning, statistical modelling to work at the full depth of modern data analytics. I'm building a portfolio that reflects both the domain expertise from 7 years in industry and the technical rigour from formal training.
 
-I'm based in Berlin and open to data analyst, business intelligence, and operational analytics roles across industries — with particular depth in energy, supply chain, logistics, and operations-intensive sectors.
+I'm based in Berlin and open to data analyst, business intelligence, and operational analytics roles across industries with particular depth in energy, supply chain, logistics, and operations-intensive sectors.
 
 ---
 
