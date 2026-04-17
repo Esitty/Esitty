@@ -4,31 +4,31 @@
 
 Working in operations and BI teams in the oil and gas industry · MSc Data Analytics (in progress) · Expertise spanning supply chain, fuel distribution, demand forecasting, and operational performance
 
-I'm not a career-changer learning analytics from scratch. I'm an experienced operations and business intelligence professional who has spent 7 years making data-driven decisions in one of the world's most complex industries, and I'm now adding formal analytical and technical depth to match that operational credibility.
+I'm not a career-changer learning analytics from scratch. I'm an experienced operations and business intelligence professional who has spent 7 years making data-driven decisions in one of the world's most complex industries — and I'm now adding formal analytical and technical depth to match that operational credibility.
 
-As a team lead in data & operations, I worked with the kind of data most analysts only see in cleaned datasets: real-time operational data, fuel stock variance reports, supply chain performance metrics, and executive dashboards used to make million-dollar decisions. I understand what good analysis looks like from the perspective of someone who has had to act on it.
+As a team lead in oil and gas BI, I worked with the kind of data most analysts only see in cleaned datasets: real-time operational data, fuel stock variance reports, supply chain performance metrics, and executive dashboards used to make million-dollar decisions. I understand what good analysis looks like from the perspective of someone who has had to act on it.
 
 ---
 
 ## What I bring
 
-- 7 years of hands-on experience in operations and business intelligence 
+- 7 years of hands-on experience in operations and business intelligence not theoretical, not academic
 - Deep domain expertise in fuel distribution, supply chain management, and operational performance analysis
 - Proven ability to translate complex operational data into insights that decision-makers can act on immediately
-- Experience leading BI teams, understanding what analysts need to produce and what stakeholders need to receive
+- Experience leading BI teams understanding what analysts need to produce and what stakeholders need to receive
 - Currently completing an MSc in Data Analytics to formalise technical skills in Python, statistical modelling, and machine learning
 
 ---
 
 ## 🛠 Skills & Tools
 
-| Analytics & Visualisation | Programming | Domain Expertise | Analysis Methods |
+| Analytics & Visualisation | Programming & Querying | Domain Expertise | Analysis Methods |
 |---|---|---|---|
 | Microsoft Excel (advanced) | Python | Oil & gas operations | Exploratory data analysis |
-| Pivot Tables & Charts | pandas, numpy | Fuel distribution & stock variance | Predictive modelling |
-| Tableau | scikit-learn | Supply chain management | Time series forecasting |
-| Dashboard & KPI design | matplotlib | Business intelligence | Demand planning |
-| Data storytelling | Jupyter Notebook | Operations team leadership | Supplier performance analysis |
+| Pivot Tables & Charts | MySQL | Fuel distribution & stock variance | Predictive modelling |
+| Tableau | pandas, numpy | Supply chain management | Time series forecasting |
+| Dashboard & KPI design | scikit-learn | Business intelligence | Demand planning |
+| Data storytelling | matplotlib | Operations team leadership | Supplier performance analysis |
 
 ---
 
@@ -38,32 +38,39 @@ As a team lead in data & operations, I worked with the kind of data most analyst
 
 ---
 
-### [Fuel Sales Performance, Logistics & Operations & Stock Buffer Analysis Dashboard](https://github.com/Esitty/fuel_sales_logistics_dashboard) · `Live on Tableau Public`
+### [Fuel Sales & Logistics Performance Dashboard](https://github.com/Esitty/fuel_sales_logistics_dashboard) · `Live on Tableau Public`
 `Excel` `Tableau` `Pivot Tables` `Sales Analysis` `Logistics` `Stock Variance` `Fuel Distribution` `KPI Design`
 
-Dual dashboard analyzing fuel sales revenue, logistics operations, and stock variance across 5 regions and 15 stations, built in both Excel and Tableau. Includes industry-specific stock variance analysis (overall 1.19% variance rate) with breakdown by fuel type reflecting real operational loss patterns: Petrol 1.63%, Diesel 0.94%, LPG 0.49%. The Tableau version adds a combo chart and interactive web publishing not possible in Excel.
+Dual dashboard analyzing fuel sales revenue, logistics operations, and stock variance across 5 regions and 15 stations built in both Excel and Tableau. Includes industry-specific stock variance analysis (overall 1.19% variance rate) with breakdown by fuel type reflecting real operational loss patterns: Petrol 1.63%, Diesel 0.94%, LPG 0.49%. The Tableau version adds a combo chart and interactive web publishing not possible in Excel.
 
 [View live on Tableau Public](https://public.tableau.com/app/profile/henrietta.mensah/viz/fuel_sales_logistics_dashboard_rev/FuelSalesdashboard)
 
 ---
 
-### [Supply Chain & Demand Analytics Dashboard](https://github.com/Esitty/Supply_Chain_-_Demand_Analytics_Dashboard)
+### [Supply Chain & Demand Analytics — Excel Dashboard](https://github.com/Esitty/Supply_Chain_-_Demand_Analytics_Dashboard)
 `Excel` `Pivot Tables` `Slicers` `Supply Chain` `Inventory Analysis` `Supplier Performance`
 
-Excel dashboard tracking product demand, inventory gaps, and supplier performance across 5 German warehouse locations. Identifies consistent overstocking across all 4 product categories, a 2.5× delivery time gap between best and worst supplier, and a revenue vs. volume mismatch pointing to a clear pricing opportunity. Built to answer the questions a procurement or supply chain manager would ask first.
+Excel dashboard tracking product demand, inventory gaps, and supplier performance across 5 German warehouse locations. Identifies consistent overstocking across all 4 product categories, a 2.5× delivery time gap between best and worst supplier, and a revenue vs. volume mismatch pointing to a clear pricing opportunity.
+
+---
+
+### [Supply Chain & Demand Analytics — SQL Analysis](https://github.com/Esitty/Supply-chain-SQL-)
+`MySQL` `SQL` `Window Functions` `Aggregation` `Supply Chain` `Supplier Performance` `Inventory Analysis`
+
+10-query MySQL analysis of the same supply chain dataset — answering business questions across product performance, supplier reliability, inventory efficiency, and warehouse analytics. Deliberately built to complement and validate the Excel dashboard above: Query 10 reproduces the exact KPI summary (€1,349,500 revenue, 31.57% margin, 6.1 day avg delivery) confirming full analytical consistency across tools. Demonstrates advanced SQL including `RANK() OVER (PARTITION BY)` window functions, multi-column `GROUP BY`, derived metrics (sell-through rate, fulfilment rate, revenue per cost euro), and `COUNT(DISTINCT)`. Key finding: all four product categories show sell-through rates below 80%, pointing to business-wide over-ordering — with EV Chargers the worst performer at 71.7%.
 
 ---
 
 ### MSc Data Analytics Coursework — Applied Technical Projects
 
-> The following projects were completed as part of my Master's programme. They demonstrate applied Python skills — predictive modelling, time series analysis, and algorithmic problem-solving — used on real analytical problems.
+> The following projects were completed as part of my Master's programme. They demonstrate applied Python skills, predictive modelling, time series analysis, and algorithmic problem-solving used on real analytical problems.
 
 ---
 
 ### [Customer Churn Predictive Analytics](https://github.com/Esitty/customer-churn-predictive-analytics) · `MSc coursework`
 `Python` `pandas` `numpy` `scikit-learn` `Predictive Modelling` `EDA`
 
-Exploratory data analysis and predictive modelling to identify key variables associated with customer churn risk. Translates analytical findings into targeted retention interventions, combining technical modelling with business relevance.
+Exploratory data analysis and predictive modelling to identify key variables associated with customer churn risk. Translates analytical findings into targeted retention interventions combining technical modelling with business relevance.
 
 ---
 
@@ -87,7 +94,7 @@ Before formalising my analytics skills, I spent 7 years in the oil and gas indus
 
 That experience taught me things no course can fully replicate: how messy real operational data actually is, what questions decision-makers are actually trying to answer, and what it means for an analysis to be genuinely useful rather than just technically correct.
 
-My MSc in Data Analytics is giving me the formal technical foundation, Python, machine learning, statistical modelling to work at the full depth of modern data analytics. I'm building a portfolio that reflects both the domain expertise from 7 years in industry and the technical rigour from formal training.
+My MSc in Data Analytics is giving me the formal technical foundation — Python, machine learning, statistical modelling to work at the full depth of modern data analytics. I'm building a portfolio that reflects both the domain expertise from 7 years in industry and the technical rigour from formal training.
 
 I'm based in Berlin and open to data analyst, business intelligence, and operational analytics roles across industries with particular depth in energy, supply chain, logistics, and operations-intensive sectors.
 
@@ -98,8 +105,4 @@ I'm based in Berlin and open to data analyst, business intelligence, and operati
 - LinkedIn: [linkedin.com/in/hettymens](https://www.linkedin.com/in/hettymens)
 - GitHub: [github.com/Esitty](https://github.com/Esitty)
 - Tableau Public: [public.tableau.com/app/profile/henrietta.mensah](https://public.tableau.com/app/profile/henrietta.mensah/vizzes)
-
----
-
-*Open to data analyst, business intelligence, and operational analytics roles. Based in Berlin, Germany.*
 
