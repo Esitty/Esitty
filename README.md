@@ -4,9 +4,9 @@
 
 Working in operations and BI teams in the oil and gas industry · MSc Data Analytics (in progress) · Expertise spanning supply chain, fuel distribution, demand forecasting, and operational performance
 
-I'm not a career-changer learning analytics from scratch. I'm an experienced operations and business intelligence professional who has spent 7 years making data-driven decisions in one of the world's most complex industries — and I'm now adding formal analytical and technical depth to match that operational credibility.
+I'm not a career-changer learning analytics from scratch. I'm an experienced operations and business intelligence professional who has spent 7 years making data-driven decisions in one of the world's most complex industries and I'm now adding formal analytical and technical depth to match that operational credibility.
 
-As a team lead in oil and gas BI, I worked with the kind of data most analysts only see in cleaned datasets: real-time operational data, fuel stock variance reports, supply chain performance metrics, and executive dashboards used to make million-dollar decisions. I understand what good analysis looks like from the perspective of someone who has had to act on it.
+I worked with the kind of data most analysts only see in cleaned datasets: real-time operational data, fuel stock variance reports, supply chain performance metrics, and executive dashboards used to make million-dollar decisions. I understand what good analysis looks like from the perspective of someone who has had to act on it.
 
 ---
 
