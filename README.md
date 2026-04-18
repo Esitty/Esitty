@@ -47,14 +47,14 @@ Dual dashboard analyzing fuel sales revenue, logistics operations, and stock var
 
 ---
 
-### [Supply Chain & Demand Analytics — Excel Dashboard](https://github.com/Esitty/Supply_Chain_-_Demand_Analytics_Dashboard)
+### [Supply Chain & Demand Analysis — Excel Dashboard](https://github.com/Esitty/Supply_Chain_-_Demand_Analytics_Dashboard)
 `Excel` `Pivot Tables` `Slicers` `Supply Chain` `Inventory Analysis` `Supplier Performance`
 
 Excel dashboard tracking product demand, inventory gaps, and supplier performance across 5 German warehouse locations. Identifies consistent overstocking across all 4 product categories, a 2.5× delivery time gap between best and worst supplier, and a revenue vs. volume mismatch pointing to a clear pricing opportunity.
 
 ---
 
-### [Supply Chain & Demand Analytics — SQL Analysis](https://github.com/Esitty/Supply-chain-SQL-)
+### [Supply Chain & Demand Analysis — SQL Analysis](https://github.com/Esitty/Supply-chain-SQL-)
 `MySQL` `SQL` `Window Functions` `Aggregation` `Supply Chain` `Supplier Performance` `Inventory Analysis`
 
 10-query MySQL analysis of the same supply chain dataset answering business questions across product performance, supplier reliability, inventory efficiency, and warehouse analytics. Deliberately built to complement and validate the Excel dashboard above: Query 10 reproduces the exact KPI summary (€1,349,500 revenue, 31.57% margin, 6.1 day avg delivery) confirming full analytical consistency across tools. Demonstrates advanced SQL including `RANK() OVER (PARTITION BY)` window functions, multi-column `GROUP BY`, derived metrics (sell-through rate, fulfilment rate, revenue per cost euro), and `COUNT(DISTINCT)`. Key finding: all four product categories show sell-through rates below 80%, pointing to business-wide over-ordering with EV Chargers the worst performer at 71.7%.
