@@ -57,7 +57,7 @@ Excel dashboard tracking product demand, inventory gaps, and supplier performanc
 ### [Supply Chain & Demand Analytics — SQL Analysis](https://github.com/Esitty/Supply-chain-SQL-)
 `MySQL` `SQL` `Window Functions` `Aggregation` `Supply Chain` `Supplier Performance` `Inventory Analysis`
 
-10-query MySQL analysis of the same supply chain dataset — answering business questions across product performance, supplier reliability, inventory efficiency, and warehouse analytics. Deliberately built to complement and validate the Excel dashboard above: Query 10 reproduces the exact KPI summary (€1,349,500 revenue, 31.57% margin, 6.1 day avg delivery) confirming full analytical consistency across tools. Demonstrates advanced SQL including `RANK() OVER (PARTITION BY)` window functions, multi-column `GROUP BY`, derived metrics (sell-through rate, fulfilment rate, revenue per cost euro), and `COUNT(DISTINCT)`. Key finding: all four product categories show sell-through rates below 80%, pointing to business-wide over-ordering — with EV Chargers the worst performer at 71.7%.
+10-query MySQL analysis of the same supply chain dataset answering business questions across product performance, supplier reliability, inventory efficiency, and warehouse analytics. Deliberately built to complement and validate the Excel dashboard above: Query 10 reproduces the exact KPI summary (€1,349,500 revenue, 31.57% margin, 6.1 day avg delivery) confirming full analytical consistency across tools. Demonstrates advanced SQL including `RANK() OVER (PARTITION BY)` window functions, multi-column `GROUP BY`, derived metrics (sell-through rate, fulfilment rate, revenue per cost euro), and `COUNT(DISTINCT)`. Key finding: all four product categories show sell-through rates below 80%, pointing to business-wide over-ordering with EV Chargers the worst performer at 71.7%.
 
 ---
 
@@ -94,7 +94,7 @@ Before formalising my analytics skills, I spent 7 years in the oil and gas indus
 
 That experience taught me things no course can fully replicate: how messy real operational data actually is, what questions decision-makers are actually trying to answer, and what it means for an analysis to be genuinely useful rather than just technically correct.
 
-My MSc in Data Analytics is giving me the formal technical foundation — Python, machine learning, statistical modelling to work at the full depth of modern data analytics. I'm building a portfolio that reflects both the domain expertise from 7 years in industry and the technical rigour from formal training.
+My MSc in Data Analytics is giving me the formal technical foundation Python, machine learning, statistical modelling to work at the full depth of modern data analytics. I'm building a portfolio that reflects both the domain expertise from 7 years in industry and the technical rigour from formal training.
 
 I'm based in Berlin and open to data analyst, business intelligence, and operational analytics roles across industries with particular depth in energy, supply chain, logistics, and operations-intensive sectors.
 
