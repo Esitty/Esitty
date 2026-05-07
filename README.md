@@ -41,7 +41,7 @@ One question a business owner asked me recently stayed with me: *"After all your
 
 ---
 
-### [What Does Poor Service Cost a Business? - Customer Operations Intelligence](https://github.com/Esitty/customer-operations-intelligence) · `Live on Tableau Public`
+### [Customer Operations Intelligence - What Does Poor Service Cost a Business?](https://github.com/Esitty/customer-operations-intelligence) · `Live on Tableau Public`
 
 `Python` `MySQL` `SQL` `Tableau` `Excel` `UCI Dataset` `Customer Analytics` `Business Intelligence` `CLV` `SLA Analysis`
 
