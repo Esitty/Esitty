@@ -70,7 +70,7 @@ Dual dashboard analysing fuel sales revenue, logistics operations, and stock var
 
 ---
 
-### [Supply Chain & Demand Analysis — Excel Dashboard](https://github.com/Esitty/Supply_Chain_-_Demand_Analytics_Dashboard)
+### [Supply Chain & Demand Analysis - Excel Dashboard](https://github.com/Esitty/Supply_Chain_-_Demand_Analytics_Dashboard)
 
 `Excel` `Pivot Tables` `Slicers` `Supply Chain` `Inventory Analysis` `Supplier Performance`
 
@@ -78,7 +78,7 @@ Excel dashboard tracking product demand, inventory gaps, and supplier performanc
 
 ---
 
-### [Supply Chain & Demand Analysis — SQL Analysis](https://github.com/Esitty/Supply-chain-SQL-)
+### [Supply Chain & Demand Analysis - SQL Analysis](https://github.com/Esitty/Supply-chain-SQL-)
 
 `MySQL` `SQL` `Window Functions` `Aggregation` `Supply Chain` `Supplier Performance` `Inventory Analysis`
 
@@ -88,7 +88,7 @@ Demonstrates advanced SQL including `RANK() OVER (PARTITION BY)` window function
 
 ---
 
-### MSc Data Analytics Coursework — Applied Technical Projects
+### MSc Data Analytics Coursework - Applied Technical Projects
 
 > The following projects were completed as part of my Master's programme. They demonstrate applied Python skills, predictive modelling, time series analysis, and algorithmic problem-solving on real analytical problems.
 
@@ -106,7 +106,7 @@ Exploratory data analysis and predictive modelling to identify key variables ass
 
 `Python` `pandas` `numpy` `matplotlib` `Time Series` `Forecasting`
 
-Time series analysis on historical data to identify trends, seasonality, and demand patterns. Directly applicable to fuel procurement planning, operational scheduling, and inventory management — skills I understand from both the analytical and operational side.
+Time series analysis on historical data to identify trends, seasonality, and demand patterns. Directly applicable to fuel procurement planning, operational scheduling, and inventory management, skills I understand from both the analytical and operational side.
 
 ---
 
